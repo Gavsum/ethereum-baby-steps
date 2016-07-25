@@ -1,0 +1,26 @@
+{
+	"name": "ethereum-baby-steps",
+	"version": "1.0.0",
+	"description": "basics for smart contracts in solidity with geth",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kidwai/ethereum-baby-steps.git"
+	},
+	"keywords": [
+		"ethereum",
+		"nodejs",
+		"simple",
+		"blockchain",
+		"cli"	
+	],
+	"author": "Mohammad Kidwai",
+	"license": "MIT",
+	"dependencies": {
+	"web3": ">=0.15.3",
+	"fkill": ">=3.3.0"
+	},
+	"bugs": {
+	"url": "https://github.com/kidwai/ethereum-baby-steps/issues"
+	},
+	"homepage": "https://github.com/kidwai/ethereum-baby-steps#readme"
+}
