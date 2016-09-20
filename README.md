@@ -34,7 +34,7 @@ Save the following into a file called 'genesis.json'.
 
 To start a node, run
 
-	geth --genesis genesis.json
+	geth init genesis.json   
 
 This will use the above json file to write block 0 of the blockchain, the genesis block. You will see
 some networking logs indicating the server starting. Open another terminal and run
